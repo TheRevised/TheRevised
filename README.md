@@ -20,7 +20,7 @@ Actualmente estudio en la Universidad de Hybridge. Con 23 años, me especializo 
 ### Contacto 📫
 - LinkedIn: [Abel Flores](https://www.linkedin.com/in/abel-flores-5b98b8304/)
 - Correo electrónico: [Abelwan1@hotmail.com](mailto:Abelwan1@hotmail.com)
-- Twitter: [@abelflores](https://x.com/TheRevised_96)
+- Twitter: [@TheRevised_96](https://x.com/TheRevised_96)
 
 ### Estadísticas 📊
 
