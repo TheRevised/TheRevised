@@ -1,3 +1,2 @@
 # Hola!, Mi nombre es Abel Flores 👋
-### Soy estudiante en Hybridge
-### Actualmente estudio Ingenieria en Inteligencia Artificial
+### Actualmente estudio en Hybridge la carrera de Ingenieria en Inteligencia Artificial
