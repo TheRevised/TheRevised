@@ -1,8 +1,7 @@
 # Hola!, Mi nombre es Abel Flores 👋
-### Estudiante de Ingeniería en Inteligencia Artificial
+### Estudiante de Ingenieria en Inteligenvia Artificial
 
-## Sobre mí 🧠
-Soy estudiante de Ingeniería en Inteligencia Artificial en la Universidad de Hybridge. Con 23 años, me especializo en desarrollo con Python y estoy apasionado por encontrar soluciones tecnológicas a problemas complejos.
+Actualmente estudio en la Universidad de Hybridge. Con 23 años, me especializo en desarrollo con Python y estoy apasionado por encontrar soluciones tecnológicas a problemas complejos.
 
 ## Habilidades técnicas 💻
 - **Lenguajes de programación**: Python (avanzado), SQL(básico)
