@@ -5,7 +5,7 @@
 Actualmente estudio en la Universidad de Hybridge. Con 23 años, me especializo en desarrollo con Python y estoy apasionado por encontrar soluciones tecnológicas a problemas complejos.
 
 ### Habilidades técnicas 💻
-- **Lenguajes de programación**: Python (avanzado), SQL(básico)
+- **Lenguajes de programación**: Python (avanzado), SQL (básico)
 - **Frameworks y bibliotecas**: TensorFlow, PyTorch, scikit-learn, Pandas, NumPy
 - **Áreas de especialización**: Machine Learning, Procesamiento de Lenguaje Natural, Visión por Computadora
 - **Herramientas**: Git, Docker, Jupyter Notebooks, VS Code
@@ -19,8 +19,6 @@ Actualmente estudio en la Universidad de Hybridge. Con 23 años, me especializo 
 - Técnicas de optimización en IA
 
 ### Contacto 📫
-[![LinkedIn](https://img.shields.io/badge/LinkedIn_=_Abel_Flores-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel-flores-5b98b8304/)
-[![Twitter](https://img.shields.io/badge/Twitter_=_TheRevised__96-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TheRevised_96)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:abelwan1@hotmail.com)
 
 ### Estadísticas 📊
