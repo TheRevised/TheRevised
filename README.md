@@ -18,8 +18,8 @@ Actualmente estudio en la Universidad de Hybridge. Con 23 años, me especializo 
 - Técnicas de optimización en IA
 
 ### Contacto 📫
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel-flores-5b98b8304/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TheRevised_96)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn_Abel_Flores-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel-flores-5b98b8304/)
+[![Twitter](https://img.shields.io/badge/Twitter_TheRevised__96-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TheRevised_96)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:abelwan1@hotmail.com)
 
 ### Estadísticas 📊
