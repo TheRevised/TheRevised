@@ -6,9 +6,9 @@ Actualmente estudio en la Universidad de Hybridge. Con 23 años, me especializo 
 
 ### Habilidades técnicas 💻
 - **Lenguajes de programación**: Python (avanzado), SQL (básico)
-- **Frameworks y bibliotecas**: TensorFlow, PyTorch, scikit-learn, Pandas, NumPy
+- **Frameworks y bibliotecas**: TensorFlow, PyTorch, Pandas, NumPy
 - **Áreas de especialización**: Machine Learning, Procesamiento de Lenguaje Natural, Visión por Computadora
-- **Herramientas**: Git, Docker, Jupyter Notebooks, VS Code
+- **Herramientas**: Git, Jupyter Notebooks, VS Code
 
 ### Educación 🎓
 - **Ingeniería en Inteligencia Artificial** - Universidad de Hybridge (En curso)
