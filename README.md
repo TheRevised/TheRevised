@@ -5,9 +5,8 @@
 Actualmente estudio en la Universidad de Hybridge. Con 23 años, me especializo en desarrollo con Python y estoy apasionado por encontrar soluciones tecnológicas a problemas complejos.
 
 ### Habilidades técnicas 💻
-- **Lenguajes de programación**: Python (avanzado), SQL (básico)
-- **Frameworks y bibliotecas**: TensorFlow, PyTorch, Pandas, NumPy
-- **Áreas de especialización**: Machine Learning, Procesamiento de Lenguaje Natural, Visión por Computadora
+- **Lenguajes de programación**: Python, SQL
+- **Frameworks y bibliotecas**: Pandas, NumPy
 - **Herramientas**: Git, Jupyter Notebooks, VS Code
 
 ### Educación 🎓
@@ -19,7 +18,7 @@ Actualmente estudio en la Universidad de Hybridge. Con 23 años, me especializo 
 - Técnicas de optimización en IA
 
 ### Contacto 📫
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:abelwan1@hotmail.com)
+abelwan1@hotmail.com
 
 ### Estadísticas 📊
 
