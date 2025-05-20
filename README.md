@@ -6,11 +6,10 @@ Actualmente estudio en la Universidad de Hybridge. Con 23 años, me especializo 
 
 ### Habilidades técnicas 💻
 - **Lenguajes de programación**: Python, SQL
-- **Frameworks y bibliotecas**: Pandas, NumPy
-- **Herramientas**: Git, Jupyter Notebooks, VS Code
+- **Herramientas**: Git, Jupyter, VS Code
 
 ### Educación 🎓
-- **Ingeniería en Inteligencia Artificial** - Universidad de Hybridge (En curso)
+- **Ingeniería en Inteligencia Artificial** - Universidad de Hybridge 2024 - (En curso)
 
 ### Actualmente aprendiendo 📚
 - Desarrollo de modelos de deep learning avanzados
@@ -19,6 +18,7 @@ Actualmente estudio en la Universidad de Hybridge. Con 23 años, me especializo 
 
 ### Contacto 📫
 abelwan1@hotmail.com
+revisedseven96@gmail.com
 
 ### Estadísticas 📊
 
