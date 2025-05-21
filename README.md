@@ -1,5 +1,5 @@
-<h1 align="center">👨‍💻 Abel Flores López</h1>
-<h3 align="center">🎓 Estudiante de Ingeniería en Inteligencia Artificial</h3>
+<h1 align="center">🤖 Abel Flores López</h1>
+<h3 align="center">🎓 Ingeniería en Inteligencia Artificial | Python · Automatización · Datos</h3>
 
 <p align="center">
   Apasionado por la Automatización, el Análisis de Datos y el Desarrollo de Soluciones Reales con Python
@@ -15,6 +15,7 @@
 
 Soy estudiante de IA en la Universidad de Hybridge. Me especializo en el desarrollo de herramientas automatizadas, integración de APIs, análisis de datos y creación de soluciones inteligentes con Python.  
 Tengo experiencia en ambientes industriales, uso de SAP y bases de datos modernas como Supabase y PostgreSQL.
+
 
 ---
 
@@ -61,14 +62,11 @@ Tengo experiencia en ambientes industriales, uso de SAP y bases de datos moderna
 
 ### 📫 Contacto
 
-- 📧 abelwan1@hotmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/abel-flores-5b98b8304)
+- 📧 **Correo**: abelwan1@hotmail.com  
+- 💼 **LinkedIn**: [linkedin.com/in/abel-flores-5b98b8304](https://www.linkedin.com/in/abel-flores-5b98b8304)  
+- 📄 **CV en Google Drive**: [Ver Curriculum Vitae](https://docs.google.com/presentation/d/1vxIzgQQT1bFJhSIbvGbpDJVm3Bmk9vLR2BgFmlvYa_c/edit?usp=drive_link)
 
----
-
-### 📄 Mi CV
-
-📌 [📎 Ver Curriculum Vitae (Google Drive)](https://drive.google.com/file/d/1Urrn1vKY1m_NPWDPUtGzT_myzcalDWm9/view?usp=drive_link)
+- 📍 México | Disponible para trabajo remoto o híbrido
 
 ---
 
@@ -78,4 +76,5 @@ Tengo experiencia en ambientes industriales, uso de SAP y bases de datos moderna
 - Trabajo actualmente en manufactura avanzada en **Intuitive**.  
 - Me interesa la creación de herramientas que automaticen procesos humanos.  
 - Mi objetivo es integrar IA en la vida diaria con un enfoque práctico y realista.  
+
 </details>
