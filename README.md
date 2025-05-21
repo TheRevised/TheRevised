@@ -60,8 +60,7 @@ Soy estudiante de IA en la Universidad de Hybridge, con experiencia práctica en
 ### 📫 Contacto
 
 - 📧 abelwan1@hotmail.com  
-- 💼 [LinkedIn (si tienes)](https://linkedin.com/in/abelflores) *(opcional)*  
-- 🌐 [dreaiflow.com](https://dreaiflow.com) *(si ya está en marcha)*  
+- 💼 [LinkedIn (si tienes)]([https://linkedin.com/in/abelflores](https://www.linkedin.com/in/abel-flores-5b98b8304/))
 
 ---
 
