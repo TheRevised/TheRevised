@@ -1,50 +1,74 @@
-# 👋 ¡Hola! Soy Abel Flores  
-### 🧠 Estudiante de Ingeniería en Inteligencia Artificial | Apasionado por la automatización y el desarrollo con Python
+<h1 align="center">👨‍💻 Abel Flores López</h1>
+<p align="center">
+  Estudiante de Ingeniería en Inteligencia Artificial · Apasionado por la Automatización, el Análisis de Datos y el Desarrollo de Soluciones Reales con Python
+</p>
 
-<img src="./logo-hybridge-ligth.png" alt="Logo de Hybridge" width="200">
-
-Actualmente estudio en la Universidad de Hybridge. Tengo 23 años y me especializo en crear soluciones prácticas con Python, automatización de tareas y análisis de datos. Me interesa construir herramientas útiles que integren APIs, inteligencia artificial y bases de datos modernas.
-
----
-
-### ⚙️ Tecnologías y Herramientas  
-- **Lenguajes:** Python · SQL  
-- **Herramientas:** Git · Jupyter · VS Code · Supabase · SAP (básico)  
-- **APIs:** Google Calendar · Google Tasks  
+<p align="center">
+  <img src="./logo-hybridge-ligth.png" alt="Hybridge University" width="120"/>
+</p>
 
 ---
 
-### 📚 Actualmente aprendiendo  
-- Modelos de Deep Learning  
-- Cloud Computing (AWS / Azure)  
-- Optimización y eficiencia en procesos con IA
+### 🧠 Sobre mí
+
+Soy estudiante de IA en la Universidad de Hybridge, con experiencia práctica en entornos industriales, uso de SAP, automatización de procesos con Python y análisis de datos. Busco desarrollar herramientas que conecten inteligencia artificial, APIs y bases de datos modernas para resolver problemas reales.
 
 ---
 
-### 📁 Proyectos destacados  
-- **Gestor Personal:** Automatización de tareas con Google Calendar y Tasks  
-- **Data Insights:** Análisis y visualización de datos con Python  
-- **DB System:** Base de datos relacional con Supabase
+### 🛠️ Tech Stack
+
+<div align="center">
+
+| Lenguajes | Herramientas | APIs / Cloud | Base de Datos |
+|----------|-------------|---------------|----------------|
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) | ![Google Cloud](https://img.shields.io/badge/-Google%20API-4285F4?style=flat&logo=google&logoColor=white) | ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) |
+| ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sqlite&logoColor=white) | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) | ![Google Calendar](https://img.shields.io/badge/-Calendar%20API-34A853?style=flat&logo=google-calendar&logoColor=white) | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white) |
+
+</div>
 
 ---
 
-### 🎓 Educación  
-**Ingeniería en Inteligencia Artificial**  
-Universidad de Hybridge | 2024 – (En curso)
+### 🚀 Proyectos destacados
+
+- **🧾 Gestor Personal**  
+  Automatización de tareas y recordatorios con Google Calendar y Tasks API.
+
+- **📊 Data Insights**  
+  Análisis de datasets públicos con Python, Pandas y Matplotlib.
+
+- **🧬 DB System (Supabase)**  
+  Estructura de base de datos relacional en Supabase para manejo de información dinámica.
 
 ---
 
-### 📫 Contacto  
+### 📚 Formación
+
+🎓 **Ingeniería en Inteligencia Artificial**  
+*Universidad de Hybridge (2024 – Actual)*  
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheRevised&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRevised&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+### 📫 Contacto
+
 - 📧 abelwan1@hotmail.com  
-- 📧 revisedseven96@gmail.com  
+- 💼 [LinkedIn (si tienes)](https://linkedin.com/in/abelflores) *(opcional)*  
+- 🌐 [dreaiflow.com](https://dreaiflow.com) *(si ya está en marcha)*  
 
 ---
 
-### 📊 Estadísticas
+<details>
+<summary>✨ Un poco más sobre mí</summary>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheRevised&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRevised&layout=compact&theme=radical)
-
----
-
-⭐️ *Gracias por visitar mi perfil. Siempre estoy abierto a aprender, colaborar y crear soluciones con impacto real.*  
+- Actualmente trabajo en el área de manufactura avanzada en Intuitive.  
+- Tengo interés en la creación de herramientas que automaticen procesos humanos.  
+- Mi objetivo es integrar IA en el día a día con un enfoque práctico y realista.  
+</details>
