@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="./logo-hybridge-ligth.png" alt="Hybridge University" width="120"/>
+  <img src="./logo-hybridge-ligth.png" alt="Hybridge University" width="200"/>
 </p>
 
 ---
@@ -21,8 +21,8 @@ Soy estudiante de IA en la Universidad de Hybridge, con experiencia práctica en
 
 | Lenguajes | Herramientas | APIs / Cloud | Base de Datos |
 |----------|-------------|---------------|----------------|
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) | ![Google Cloud](https://img.shields.io/badge/-Google%20API-4285F4?style=flat&logo=google&logoColor=white) | ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) |
-| ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sqlite&logoColor=white) | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) | ![Google Calendar](https://img.shields.io/badge/-Calendar%20API-34A853?style=flat&logo=google-calendar&logoColor=white) | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white) |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) | ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white) | ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) |
+| ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sqlite&logoColor=white) | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) | ![Google Cloud](https://img.shields.io/badge/-Google%20API-4285F4?style=flat&logo=google&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) |
 
 </div>
 
@@ -36,8 +36,8 @@ Soy estudiante de IA en la Universidad de Hybridge, con experiencia práctica en
 - **📊 Data Insights**  
   Análisis de datasets públicos con Python, Pandas y Matplotlib.
 
-- **🧬 DB System (Supabase)**  
-  Estructura de base de datos relacional en Supabase para manejo de información dinámica.
+- **🧬 DB System (Supabase + PostgreSQL)**  
+  Estructura de base de datos relacional para manejo de información dinámica.
 
 ---
 
@@ -60,7 +60,7 @@ Soy estudiante de IA en la Universidad de Hybridge, con experiencia práctica en
 ### 📫 Contacto
 
 - 📧 abelwan1@hotmail.com  
-- 💼 [LinkedIn]([https://www.linkedin.com/in/abel-flores-5b98b8304/])
+- 💼 [LinkedIn](https://www.linkedin.com/in/abel-flores-5b98b8304)
 
 ---
 
