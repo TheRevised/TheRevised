@@ -1,17 +1,20 @@
 <h1 align="center">👨‍💻 Abel Flores López</h1>
+<h3 align="center">🎓 Estudiante de Ingeniería en Inteligencia Artificial</h3>
+
 <p align="center">
-  Estudiante de Ingeniería en Inteligencia Artificial · Apasionado por la Automatización, el Análisis de Datos y el Desarrollo de Soluciones Reales con Python
+  Apasionado por la Automatización, el Análisis de Datos y el Desarrollo de Soluciones Reales con Python
 </p>
 
 <p align="center">
-  <img src="./logo-hybridge-ligth.png" alt="Hybridge University" width="200"/>
+  <img src="./logo-hybridge-ligth.png" alt="Hybridge University" width="220"/>
 </p>
 
 ---
 
 ### 🧠 Sobre mí
 
-Soy estudiante de IA en la Universidad de Hybridge, con experiencia práctica en entornos industriales, uso de SAP, automatización de procesos con Python y análisis de datos. Busco desarrollar herramientas que conecten inteligencia artificial, APIs y bases de datos modernas para resolver problemas reales.
+Soy estudiante de IA en la Universidad de Hybridge. Me especializo en el desarrollo de herramientas automatizadas, integración de APIs, análisis de datos y creación de soluciones inteligentes con Python.  
+Tengo experiencia en ambientes industriales, uso de SAP y bases de datos modernas como Supabase y PostgreSQL.
 
 ---
 
@@ -19,10 +22,9 @@ Soy estudiante de IA en la Universidad de Hybridge, con experiencia práctica en
 
 <div align="center">
 
-| Lenguajes | Herramientas | APIs / Cloud | Base de Datos |
+| Lenguajes | Herramientas | APIs / Cloud | Bases de Datos |
 |----------|-------------|---------------|----------------|
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) | ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white) | ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) |
-| ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sqlite&logoColor=white) | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) | ![Google Cloud](https://img.shields.io/badge/-Google%20API-4285F4?style=flat&logo=google&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sqlite&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) | ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white) ![Google Cloud](https://img.shields.io/badge/-Google%20API-4285F4?style=flat&logo=google&logoColor=white) | ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) |
 
 </div>
 
@@ -31,13 +33,13 @@ Soy estudiante de IA en la Universidad de Hybridge, con experiencia práctica en
 ### 🚀 Proyectos destacados
 
 - **🧾 Gestor Personal**  
-  Automatización de tareas y recordatorios con Google Calendar y Tasks API.
+  Automatización de tareas y recordatorios usando Google Calendar + Tasks API.
 
 - **📊 Data Insights**  
   Análisis de datasets públicos con Python, Pandas y Matplotlib.
 
 - **🧬 DB System (Supabase + PostgreSQL)**  
-  Estructura de base de datos relacional para manejo de información dinámica.
+  Diseño y manejo de base de datos relacional para información dinámica.
 
 ---
 
@@ -67,7 +69,7 @@ Soy estudiante de IA en la Universidad de Hybridge, con experiencia práctica en
 <details>
 <summary>✨ Un poco más sobre mí</summary>
 
-- Actualmente trabajo en el área de manufactura avanzada en Intuitive.  
-- Tengo interés en la creación de herramientas que automaticen procesos humanos.  
-- Mi objetivo es integrar IA en el día a día con un enfoque práctico y realista.  
+- Trabajo actualmente en manufactura avanzada en **Intuitive**.  
+- Me interesa la creación de herramientas que automaticen procesos humanos.  
+- Mi objetivo es integrar IA en la vida diaria con un enfoque práctico y realista.  
 </details>
