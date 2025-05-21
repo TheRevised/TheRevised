@@ -66,6 +66,12 @@ Tengo experiencia en ambientes industriales, uso de SAP y bases de datos moderna
 
 ---
 
+### 📄 Mi CV
+
+📌 [📎 Ver Curriculum Vitae (Google Drive)](https://docs.google.com/presentation/d/1vxIzgQQT1bFJhSIbvGbpDJVm3Bmk9vLR2BgFmlvYa_c/edit?usp=drive_link)
+
+---
+
 <details>
 <summary>✨ Un poco más sobre mí</summary>
 
