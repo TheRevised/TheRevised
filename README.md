@@ -11,7 +11,7 @@
 
 ---
 
-### 🧠 Sobre mí
+<h3 align="center">🧠 Sobre mí</h3>
 
 Soy estudiante de IA en la Universidad de Hybridge. Me especializo en el desarrollo de herramientas automatizadas, integración de APIs, análisis de datos y creación de soluciones inteligentes con Python.  
 Tengo experiencia en ambientes industriales, uso de SAP y bases de datos modernas como Supabase y PostgreSQL.
@@ -19,7 +19,7 @@ Tengo experiencia en ambientes industriales, uso de SAP y bases de datos moderna
 
 ---
 
-### 🛠️ Tech Stack
+<h3 align="center">🛠️ Tech Stack</h3>
 
 <div align="center">
 
@@ -31,7 +31,7 @@ Tengo experiencia en ambientes industriales, uso de SAP y bases de datos moderna
 
 ---
 
-### 🚀 Proyectos destacados
+<h3 align="center">🚀 Proyectos</h3>
 
 - **🧾 Gestor Personal**  
   Automatización de tareas y recordatorios usando Google Calendar + Tasks API.
@@ -44,14 +44,14 @@ Tengo experiencia en ambientes industriales, uso de SAP y bases de datos moderna
 
 ---
 
-### 📚 Formación
+<h3 align="center">📓 Formación</h3>
 
 🎓 **Ingeniería en Inteligencia Artificial**  
 *Universidad de Hybridge (2024 – Actual)*  
 
 ---
 
-### 📈 GitHub Stats
+<h3 align="center">📈 GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TheRevised&show_icons=true&theme=tokyonight" width="48%" />
@@ -60,7 +60,7 @@ Tengo experiencia en ambientes industriales, uso de SAP y bases de datos moderna
 
 ---
 
-### 📫 Contacto
+<h3 align="center">📫 Contacto</h3>
 
 - 📧 **Correo**: abelwan1@hotmail.com  
 - 💼 **LinkedIn**: [linkedin.com/in/abel-flores-5b98b8304](https://www.linkedin.com/in/abel-flores-5b98b8304)  
