@@ -1,6 +1,5 @@
 <h1 align="center">🤖 Abel Flores López</h1>
-
-<h2 align="center">🎓 Ingeniería en Inteligencia Artificial | Python · Automatización · Datos</h2>
+<h3 align="center">🎓 Ingeniería en Inteligencia Artificial | Python · Automatización · Datos</h3>
 
 <p align="center">
   Apasionado por la Automatización, el Análisis de Datos y el Desarrollo de Soluciones Reales con Python
