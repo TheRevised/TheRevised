@@ -9,14 +9,14 @@
   <img src="./logo-hybridge-ligth.png" alt="Hybridge University" width="220"/>
 </p>
 
----
+<hr>
 
 <h3 align="center">🧠 Sobre mí</h3>
 
 Soy estudiante de IA en la Universidad de Hybridge. Me especializo en el desarrollo de herramientas automatizadas, integración de APIs, análisis de datos y creación de soluciones inteligentes con Python.  
 Tengo experiencia en ambientes industriales, uso de SAP y bases de datos modernas como Supabase y PostgreSQL.
 
----
+&nbsp;
 
 <h3 align="center">🛠️ Tech Stack</h3>
 
@@ -28,7 +28,7 @@ Tengo experiencia en ambientes industriales, uso de SAP y bases de datos moderna
 
 </div>
 
----
+&nbsp;
 
 <h3 align="center">🚀 Proyectos</h3>
 
@@ -41,14 +41,14 @@ Tengo experiencia en ambientes industriales, uso de SAP y bases de datos moderna
 - **🧬 DB System (Supabase + PostgreSQL)**  
   Diseño y manejo de base de datos relacional para información dinámica.
 
----
+&nbsp;
 
 <h3 align="center">📓 Formación</h3>
 
 🎓 **Ingeniería en Inteligencia Artificial**  
 *Universidad de Hybridge (2024 – Actual)*  
 
----
+&nbsp;
 
 <h3 align="center">📈 GitHub Stats</h3>
 
@@ -57,18 +57,16 @@ Tengo experiencia en ambientes industriales, uso de SAP y bases de datos moderna
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRevised&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
----
+&nbsp;
 
 <h3 align="center">📫 Contacto</h3>
 
-<p align="center">
-  📧 <strong>Email:</strong> abelwan1@hotmail.com <br>
-  💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/abel-flores-5b98b8304">linkedin.com/in/abel-flores-5b98b8304</a> <br>
-  📄 <strong>CV:</strong> <a href="https://docs.google.com/presentation/d/1vxIzgQQT1bFJhSIbvGbpDJVm3Bmk9vLR2BgFmlvYa_c/edit?usp=drive_link">Ver Curriculum Vitae</a> <br>
-  📍 <strong>Ubicación:</strong> México — Disponible para trabajo remoto o híbrido
-</p>
+- 📧 **Correo**: abelwan1@hotmail.com  
+- 💼 **LinkedIn**: [linkedin.com/in/abel-flores-5b98b8304](https://www.linkedin.com/in/abel-flores-5b98b8304)  
+- 📄 **CV en Google Drive**: [Ver Curriculum Vitae](https://docs.google.com/presentation/d/1vxIzgQQT1bFJhSIbvGbpDJVm3Bmk9vLR2BgFmlvYa_c/edit?usp=drive_link)  
+- 📍 **Ubicación**: México | Disponible para trabajo remoto o híbrido
 
----
+&nbsp;
 
 <details>
 <summary>✨ Un poco más sobre mí</summary>
@@ -78,3 +76,4 @@ Tengo experiencia en ambientes industriales, uso de SAP y bases de datos moderna
 - Mi objetivo es integrar IA en la vida diaria con un enfoque práctico y realista.  
 
 </details>
+
