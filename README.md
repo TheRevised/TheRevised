@@ -16,7 +16,6 @@
 Soy estudiante de IA en la Universidad de Hybridge. Me especializo en el desarrollo de herramientas automatizadas, integración de APIs, análisis de datos y creación de soluciones inteligentes con Python.  
 Tengo experiencia en ambientes industriales, uso de SAP y bases de datos modernas como Supabase y PostgreSQL.
 
-
 ---
 
 <h3 align="center">🛠️ Tech Stack</h3>
@@ -62,11 +61,12 @@ Tengo experiencia en ambientes industriales, uso de SAP y bases de datos moderna
 
 <h3 align="center">📫 Contacto</h3>
 
-- 📧 **Correo**: abelwan1@hotmail.com  
-- 💼 **LinkedIn**: [linkedin.com/in/abel-flores-5b98b8304](https://www.linkedin.com/in/abel-flores-5b98b8304)  
-- 📄 **CV en Google Drive**: [Ver Curriculum Vitae](https://docs.google.com/presentation/d/1vxIzgQQT1bFJhSIbvGbpDJVm3Bmk9vLR2BgFmlvYa_c/edit?usp=drive_link)
-
-- 📍 México | Disponible para trabajo remoto o híbrido
+<p align="center">
+  📧 <strong>Email:</strong> abelwan1@hotmail.com <br>
+  💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/abel-flores-5b98b8304">linkedin.com/in/abel-flores-5b98b8304</a> <br>
+  📄 <strong>CV:</strong> <a href="https://docs.google.com/presentation/d/1vxIzgQQT1bFJhSIbvGbpDJVm3Bmk9vLR2BgFmlvYa_c/edit?usp=drive_link">Ver Curriculum Vitae</a> <br>
+  📍 <strong>Ubicación:</strong> México — Disponible para trabajo remoto o híbrido
+</p>
 
 ---
 
