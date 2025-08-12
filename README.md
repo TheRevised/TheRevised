@@ -1,4 +1,4 @@
-<h1 align="center">🤖 Abel Flores López</h1>
+<h1 align="center">Abel Flores</h1>
 <h3 align="center">🎓 Ingeniería en Inteligencia Artificial | Python · Automatización · Datos</h3>
 
 <p align="center">
