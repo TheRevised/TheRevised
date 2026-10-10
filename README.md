@@ -21,14 +21,4 @@ A lo largo de mi formación y proyectos personales, he desarrollado una fuerte b
 
 ## 🚀 Proyectos
 
-## 📈 Estadísticas de GitHub
-![TheRevised's Stats](https://github-readme-stats.vercel.app/api?username=TheRevised&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true)
-## 📫 Contacto
-
 Escríbeme si buscas colaborar en proyectos de automatización, agentes de IA o desarrollo backend.
-
-* 📧 **Correo:** abelwan1@hotmail.com
-
-* 💼 **LinkedIn:** [Abel Flores](https://linkedin.com/in/abel-flores-5b98b8304)
-
-* 📍 **Ubicación:** México (Disponible remoto)
