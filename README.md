@@ -20,5 +20,6 @@ A lo largo de mi formación y proyectos personales, he desarrollado una fuerte b
 | **Herramientas** | Git, VS Code, Entornos Virtuales | 
 
 ## 🚀 Proyectos
+Fundador de Agency HQ - One-Person AI-First Software & Automation Agency
 
-Escríbeme si buscas colaborar en proyectos de automatización, agentes de IA o desarrollo backend.
+Escríbeme si buscas colaborar en proyectos de automatización, agentes autónomos de IA.
