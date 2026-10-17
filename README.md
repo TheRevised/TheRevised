@@ -2,13 +2,13 @@
 
 Soy estudiante de 6to cuatrimestre de **Ingeniería en Inteligencia Artificial en Hybridge Education**. Me dedico a transformar modelos matemáticos y algoritmos en herramientas funcionales.
 
-A lo largo de mi formación y proyectos personales, he desarrollado una fuerte base en **arquitectura de software, machine learning y desarrollo backend**. No solo entiendo cómo consumir una API de IA, sino cómo estructurar los datos, diseñar el sistema que la soporta y automatizar el flujo de trabajo en la nube.
+A lo largo de mi formación y proyectos personales, he desarrollado una fuerte base en **arquitectura de software, creación de agentes autónomos y desarrollo backend**. Entiendo cómo consumir una API de IA de forma eficiente, diseñando sistemas que la soportan y automatizar el flujo de trabajo en la nube.
+
+* **Automatización de Procesos:** Creación de scripts y agentes autónomos para optimizar flujos de trabajo personales y profesionales.
 
 * **Machine Learning & Análisis:** Procesamiento de datos y entrenamiento de modelos predictivos (Pandas, Scikit-Learn).
 
 * **Desarrollo Backend & APIs:** Diseño de arquitecturas modulares, bases de datos relacionales e integración de servicios externos (OpenAI, Google APIs).
-
-* **Automatización de Procesos:** Creación de scripts y agentes autónomos para optimizar flujos de trabajo personales y profesionales.
 
 ## 🛠️ Stack Tecnológico
 
