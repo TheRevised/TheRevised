@@ -12,6 +12,12 @@ A lo largo de mi formación y proyectos personales, he desarrollado una fuerte b
 
 ## 🛠️ Stack Tecnológico
 
+<div align="center">
+  
+  ![Top Languages](https://ghstats.dev/api/langs?username=TheRevised&hide_border=true&max_langs=12)
+
+</div>
+
 | **Categoría** | **Tecnologías** | 
 | **Lenguajes** | Python (Avanzado), SQL | 
 | **IA & Datos** | Machine Learning, Deep Learning, Pandas, Scikit-Learn, Jupyter | 
