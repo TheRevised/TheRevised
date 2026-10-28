@@ -1,6 +1,6 @@
 ## 🧠 Sobre mí
 
-Soy estudiante de 6to cuatrimestre de **Ingeniería en Inteligencia Artificial en Hybridge Education**. Me dedico a transformar modelos matemáticos y algoritmos en herramientas funcionales.
+Soy estudiante de 7mo cuatrimestre de **Ingeniería en Inteligencia Artificial en Hybridge Education**. Diseño e implemento sistemas conversacionales y arquitecturas backend listas para operar en el mundo real: rápidas, seguras y sin interrupciones.
 
 A lo largo de mi formación y proyectos personales, he desarrollado una fuerte base en **arquitectura de software, creación de agentes autónomos y desarrollo backend**. Entiendo cómo consumir una API de IA de forma eficiente, diseñando sistemas que la soportan y automatizar el flujo de trabajo en la nube.
 
@@ -18,14 +18,18 @@ A lo largo de mi formación y proyectos personales, he desarrollado una fuerte b
 
 </div>
 
-| **Categoría** | **Tecnologías** | 
-| **Lenguajes** | Python (Avanzado), SQL | 
-| **IA & Datos** | Machine Learning, Deep Learning, Pandas, Scikit-Learn, Jupyter | 
-| **Backend & Nube** | Arquitectura y Patrones de Diseño, Integración de APIs REST, Cloud Computing | 
-| **Bases de Datos** | PostgreSQL, Supabase | 
-| **Herramientas** | Git, VS Code, Entornos Virtuales | 
+## 🛠️ Tecnologías y habilidades
+
+| Categoría | Tecnologías |
+| :--- | :--- |
+| 💻 **Lenguajes** | Python (avanzado), SQL |
+| 🤖 **Inteligencia artificial y datos** | Machine Learning, Deep Learning, Pandas, Scikit-learn, Jupyter |
+| ☁️ **Backend y nube** | Arquitectura de software, patrones de diseño, APIs REST, Cloud Computing |
+| 🗄️ **Bases de datos** | PostgreSQL, Supabase |
+| 🔧 **Herramientas** | Git, VS Code, entornos virtuales |
 
 ## 🚀 Proyectos
 Fundador de Agency HQ - One-Person AI-First Software & Automation Agency
+Creador de Sofia - Recepcionista con IA para clínicas dentales. Atención por WhatsApp, disponible 24/7
 
 Escríbeme si buscas colaborar en proyectos de automatización, agentes autónomos de IA.
