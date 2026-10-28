@@ -30,6 +30,7 @@ A lo largo de mi formación y proyectos personales, he desarrollado una fuerte b
 
 ## 🚀 Proyectos
 Fundador de Agency HQ - One-Person AI-First Software & Automation Agency
+
 Creador de Sofia - Recepcionista con IA para clínicas dentales. Atención por WhatsApp, disponible 24/7
 
 Escríbeme si buscas colaborar en proyectos de automatización, agentes autónomos de IA.
