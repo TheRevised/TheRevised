@@ -22,10 +22,10 @@ A lo largo de mi formación y proyectos personales, he desarrollado una fuerte b
 | Categoría | Tecnologías |
 | :--- | :--- |
 | 💻 **Lenguajes** | Python (avanzado), SQL |
-| 🤖 **Inteligencia artificial y datos** | Machine Learning, Deep Learning, Pandas, Scikit-learn, Jupyter |
-| ☁️ **Backend y nube** | Arquitectura de software, patrones de diseño, APIs REST, Cloud Computing |
+| 🤖 **Inteligencia artificial y datos** | Machine Learning, Deep Learning, LLMs |
+| ☁️ **Backend y nube** | Arquitectura de software, patrones de diseño, APIs, Cloud Computing |
 | 🗄️ **Bases de datos** | PostgreSQL, Supabase |
-| 🔧 **Herramientas** | Git, VS Code, entornos virtuales |
+| 🔧 **Herramientas** | Git y Github, VSCode, Agentes IA, entornos virtuales |
 
 ## 🚀 Proyectos
 Fundador de Agency HQ - One-Person AI-First Software & Automation Agency
