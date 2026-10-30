@@ -1,6 +1,5 @@
-## 🧠 Sobre mí
 
-Soy estudiante de 7mo cuatrimestre de **Ingeniería en Inteligencia Artificial en Hybridge Education**. Diseño e implemento sistemas conversacionales y arquitecturas backend listas para operar en el mundo real: rápidas, seguras y sin interrupciones.
+Hola!👋 soy Abel Flores, estudiante de 7mo cuatrimestre de **Ingeniería en Inteligencia Artificial en Hybridge Education**. Diseño e implemento sistemas conversacionales y arquitecturas backend listas para operar en el mundo real: rápidas, seguras y sin interrupciones.
 
 A lo largo de mi formación y proyectos personales, he desarrollado una fuerte base en **arquitectura de software, creación de agentes autónomos y desarrollo backend**. Entiendo cómo consumir una API de IA de forma eficiente, diseñando sistemas que la soportan y automatizar el flujo de trabajo en la nube.
 
