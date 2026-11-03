@@ -1,5 +1,7 @@
 
-Hola!👋 soy Abel Flores, estudiante de 7mo cuatrimestre de **Ingeniería en Inteligencia Artificial en Hybridge Education**. Diseño e implemento sistemas conversacionales y arquitecturas backend listas para operar en el mundo real: rápidas, seguras y sin interrupciones.
+Hola!👋 Soy Abel Flores, estudiante de 7mo cuatrimestre de **Ingeniería en Inteligencia Artificial en Hybridge Education**.
+
+Diseño e implemento sistemas conversacionales y arquitecturas backend listas para operar en el mundo real: rápidas, seguras y sin interrupciones.
 
 A lo largo de mi formación y proyectos personales, he desarrollado una fuerte base en **arquitectura de software, creación de agentes autónomos y desarrollo backend**. Entiendo cómo consumir una API de IA de forma eficiente, diseñando sistemas que la soportan y automatizar el flujo de trabajo en la nube.
 
@@ -9,26 +11,23 @@ A lo largo de mi formación y proyectos personales, he desarrollado una fuerte b
 
 * **Desarrollo Backend & APIs:** Diseño de arquitecturas modulares, bases de datos relacionales e integración de servicios externos (OpenAI, Google APIs).
 
-## 🛠️ Stack Tecnológico
+### 🛠️ Stack Tecnológico
 
 <div align="center">
-  
-  ![Top Languages](https://ghstats.dev/api/langs?username=TheRevised&hide_border=true&max_langs=12)
-
-</div>
-
-## 🛠️ Tecnologías y habilidades
 
 | Categoría | Tecnologías |
 | :--- | :--- |
-| 💻 **Lenguajes** | Python (avanzado), SQL |
-| 🤖 **Inteligencia artificial y datos** | Machine Learning, Deep Learning, LLMs |
-| ☁️ **Backend y nube** | Arquitectura de software, patrones de diseño, APIs, Cloud Computing |
+| 💻 **Lenguajes** | Python, JavaScript, SQL |
+| 🤖 **Inteligencia artificial y datos** | Machine Learning, LLMs |
+| ☁️ **Backend** | Arquitectura de Software, Patrones de diseño, APIs, Cloud Computing |
 | 🗄️ **Bases de datos** | PostgreSQL, Supabase |
-| 🔧 **Herramientas** | Git y Github, VSCode, Agentes IA, entornos virtuales |
+| 🔧 **Herramientas** | Git y Github, Agentes IA|
 
-## 🚀 Proyectos
-Fundador de Agency HQ - One-Person AI-First Software & Automation Agency
+![Top Languages](https://ghstats.dev/api/langs?username=TheRevised&hide_border=true&max_langs=12)
+
+</div>
+
+### 🚀 Proyectos
 
 Creador de Sofia - Recepcionista con IA para clínicas dentales. Atención por WhatsApp, disponible 24/7
 
