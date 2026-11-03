@@ -1,6 +1,6 @@
-<div align="center">
-  
-Hola!👋 Soy Abel Flores, estudiante de 7mo cuatrimestre de **Ingeniería en Inteligencia Artificial en Hybridge Education**.
+Hola!👋 Soy Abel Flores
+
+Estudiante de 7mo cuatrimestre de **Ingeniería en Inteligencia Artificial en Hybridge Education**.
 
 Diseño e implemento sistemas conversacionales y arquitecturas backend listas para operar en el mundo real: rápidas, seguras y sin interrupciones.
 
@@ -11,6 +11,8 @@ A lo largo de mi formación y proyectos personales, he desarrollado una fuerte b
 **Machine Learning & Análisis:** Procesamiento de datos y entrenamiento de modelos predictivos (Pandas, Scikit-Learn).
 
 **Desarrollo Backend & APIs:** Diseño de arquitecturas modulares, bases de datos relacionales e integración de servicios externos (OpenAI, Google APIs).
+
+<div align="center">
 
 ### 🛠️ Stack Tecnológico
 
@@ -24,9 +26,10 @@ A lo largo de mi formación y proyectos personales, he desarrollado una fuerte b
 
 ![Top Languages](https://ghstats.dev/api/langs?username=TheRevised&hide_border=true&max_langs=12)
 
+</div>
+
 ### 🚀 Proyectos
 
 Creador de Sofia - Recepcionista con IA para clínicas dentales. Atención por WhatsApp, disponible 24/7
 
 Escríbeme si buscas colaborar en proyectos de automatización, agentes autónomos de IA.
-</div>
